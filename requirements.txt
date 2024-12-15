@@ -1,0 +1,15 @@
+google-generativeai
+streamlit
+python-dotenv
+PyPDF2
+#openai
+#pandas
+#pillow
+#langchain
+#google-search-results
+#langchain-community
+#langchain-google-genai
+#langchain-core
+#langchain_cohere
+#wikipedia
+
