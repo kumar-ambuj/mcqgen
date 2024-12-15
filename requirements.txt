@@ -12,4 +12,7 @@ PyPDF2
 #langchain-core
 #langchain_cohere
 #wikipedia
+langchain_google_genai
+traceback2
 
+-e .
