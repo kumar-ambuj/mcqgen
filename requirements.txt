@@ -14,5 +14,6 @@ PyPDF2
 #wikipedia
 langchain_google_genai
 traceback2
+langchain-community
 
 -e .
